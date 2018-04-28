@@ -100,11 +100,11 @@ div a:hover {
 	border-radius: 5px;
  	width: 10%;
 	background-color: #FE1942;
-	
+	padding-top: 10%;
 	margin-top: 10%;
 	margin-left: auto;
  	margin-right: auto;
-	padding-top: 10%;
+	
 	padding-bottom: 1%;
 }
 
@@ -114,9 +114,4 @@ div a:hover {
 
 .projects {
 	list-style-type: none;
-}
-
-.email {
-	margin-top: 2%;
-	padding-top: 5%;
 }
