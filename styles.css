@@ -1,0 +1,114 @@
+/* Css Code */
+body {
+	background-color: #FDE016;
+}
+
+header {
+	padding-top: 20px;
+	text-align: center;
+	width: 100%;
+}
+
+div a {
+	text-decoration: none;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	display: block;
+	color: #fff;
+
+	padding: 1%;
+	margin-top: 1%;
+}
+
+div a:hover {
+	background-color: #111;
+}
+
+.intro {
+	text-align: center;
+	font-size: 18px;
+	color: #fff;
+	font-family: 'Roboto', sans-serif;
+}
+
+.nav {
+	border-radius: 5px;
+	display: inline-block;
+	width: 25%;
+	background-color: #FE1942;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-weight: bold;
+}
+
+.logo {
+	padding-top: 10px;
+	display: block;
+ 	margin-left: auto;
+ 	margin-right: auto;
+ 	width: 50%;
+	max-height: 100px;
+	max-width: 50px;
+}
+
+.home-box {
+	text-align: center;
+	border-radius: 5px;
+ 	width: 25%;
+	background-color: #FE1942;
+	margin-left: auto;
+ 	margin-right: auto;
+	padding-top: 1%;
+	padding-bottom: 6px;
+}
+.text-box {
+	border-radius: 5px;
+	text-align: center;
+ 	width: 50%;
+	background-color: #FE1942;
+	margin-left: auto;
+ 	margin-right: auto;
+	margin-top: 4%;
+	padding: 1% 2%;
+	padding-bottom: 6px;
+}
+.work-box {
+	border-radius: 5px;
+	text-align: center;
+ 	width: 90%;
+	background-color: #FE1942;
+	margin-left: auto;
+ 	margin-right: auto;
+	margin-top: 4%;
+	padding: 1% 2%;
+	padding-bottom: 6px;
+}
+
+.text-home-box {
+	font-weight: bold;
+	text-align: center;
+	font-size: 17px;
+	color: #fff;
+	font-family: 'Roboto', sans-serif;
+}
+
+.email {
+	text-align: center;
+	border-radius: 5px;
+ 	width: 10%;
+	background-color: #FE1942;
+	
+	margin-top: 10%;
+	margin-left: auto;
+ 	margin-right: auto;
+	padding-top: 1%;
+	padding-bottom: 1%;
+}
+
+.contact-link-home {
+	color: #FDE016;
+}
+
+.projects {
+	list-style-type: none;
+}
