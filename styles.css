@@ -94,13 +94,16 @@ div a:hover {
 }
 
 .social-link {
-	margin: 20%;
-	padding: 20%;
 	text-align: center;
 	border-radius: 5px;
+ 	width: 10%;
 	background-color: #FE1942;
+	
+	margin-top: 10%;
 	margin-left: auto;
  	margin-right: auto;
+	padding-top: 1%;
+	padding-bottom: 1%;
 }
 
 .contact-link-home {
