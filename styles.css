@@ -94,6 +94,7 @@ div a:hover {
 }
 
 .social-link {
+	margin-top: 20px;
 	text-align: center;
 	border-radius: 5px;
  	width: 23px;
